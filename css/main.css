@@ -4,9 +4,7 @@
     box-sizing: border-box;
     
 }
-.paragraph a {
-    color :#F07c75;
-}
+
 /* NAVIGATION CSS */
 
 .Breathing-mob{
@@ -18,6 +16,9 @@ nav a:hover, a:active{
     padding: 23px;
 }
 
+.paragraph a {
+    color : blue;
+}
 nav {
     display: flex;
     justify-content: space-around;
@@ -38,6 +39,7 @@ nav {
 }
 
 .nav img{
+   
     display: flex;
 }
 
@@ -59,6 +61,7 @@ nav {
     letter-spacing: 3px;
     /*font-weight: bold;*/
     font-size: 16px;
+    
 }
 
 .mobile {
